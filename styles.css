@@ -1,0 +1,9 @@
+*{
+ margin: 0;
+padding: 0;
+}
+
+main{
+    background: url('assets/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
